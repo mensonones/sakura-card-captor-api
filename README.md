@@ -18,6 +18,7 @@ https://sakura-card-captor-api.herokuapp.com
 ## How Contribute
 
 - You can contribute by adding new cards. Cards that have not yet been added.
+- You can also contribute by suggesting improvements to the project, code, etc.
 - Link Card Images: https://drive.google.com/open?id=1UwkT_w4FRFs_89yMod6RByJ8jTWzhxgc
 
  - Example Object: Method Post for add new Card
