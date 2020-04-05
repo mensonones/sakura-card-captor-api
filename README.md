@@ -1,5 +1,7 @@
 # sakura-card-captor-api
 
+![picture](https://4.bp.blogspot.com/-XcYPpX6yH8g/W0Z9vofZdMI/AAAAAAAADUA/re9BhIwAAlAJlyBgPa6122UAHQv-J2mywCK4BGAYYCw/s1600/sakura%2Bcard%2Bcaptor.png)
+
 This repository aims to provide information and image of the anime cards Sakura card captor
 
 https://sakura-card-captor-api.herokuapp.com
