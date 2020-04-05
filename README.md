@@ -13,3 +13,4 @@ https://sakura-card-captor-api.herokuapp.com
 | /cards/cardId | Error            | Show card  | If exists, update Card; If not, error | Delete Card |
 
 
+<strong>OBS</strong>: In the online version, only the GET all and GET by Id methods are available
